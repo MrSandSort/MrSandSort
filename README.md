@@ -1,2 +1,4 @@
-- 👋 Hi, I’m Sandesh Prasad Paudel. I'm currently studying my undergraduate in Bsc (Hons) in Computing. Till the date, I could emphasize the fundamentals skills on Java, Python, Network OS
-- I'm interested in software and want to become software engineer.  
+It's me Sandesh Prasad Paudel. 
+Enthusiastic in Game development and software development.
+And I have earned the fundamental skills on Java and Python Programming.  
+Undergraduate fellow working to develop something different.

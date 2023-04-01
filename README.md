@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Dev-Sandesh</h1>
-- 🔭 I’m currently working on [BackEnd Development](Work in process)
+<h1 align="center">Call me👨‍💻 SandSort</h1>
+<h3 align="center">High as hell!</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🔭 Working on [BackEnd Development](Work in process)
 
-- 🤝 I’m looking for help with [Work in progress](Work in progress)
+- 🌱 Currently learning **Data Science**
 
-- 💬 Ask me about **FullStack Development**
+- 💬 Grasp at **Java, Python, JavaScript**
 
-- 📫 How to reach me **paudelsandesh1200@gmail.com**
+- 📫 Mail me **paudelsandesh1200@gmail.com**
+
+- ⚡ **Hilarious!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

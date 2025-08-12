@@ -1,9 +1,9 @@
 <h1 align="center">Call me👨‍💻 SandSort</h1>
 <h3 align="center">High as hell!</h3>
 
-- 🔭 Working on [BackEnd Development](Work in process)
+- 🔭 Working on [Terraform, Ansible, Kubernetes, Jenkins](Work in process)
 
-- 🌱 Currently learning **Data Science**
+- 🌱 Currently learning **DevOps and AWS**
 
 - 💬 Grasp at **Java, Python, JavaScript**
 
